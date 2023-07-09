@@ -1,0 +1,10 @@
+server:
+  port: 8089
+
+database:
+  User: 'root'
+  password: ''
+  host: '127.0.0.1'
+  port: 3306
+  Dbname: 'weather'
+  AppID: 101010
